@@ -6,4 +6,4 @@
 
 
 - One-Dimensional Arrays. 
-   * Creating One-Dimensional Array and displaying it. _ Practice [Code](Day1\Day1.md)
+   * Creating One-Dimensional Array and displaying it. _ Practice [Code](Day1\OneD.java)
