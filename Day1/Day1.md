@@ -6,4 +6,4 @@
 
 
 - One-Dimensional Arrays. 
-   * Creating One-Dimensional Array and displaying it. _ Practice [Code](Day1\OneD.java)
+   * Creating One-Dimensional Array and displaying it. _ Practice [Code](https://github.com/Mishraji566/My100-DaysOfCoding/blob/main/Day1/OneD.java)
