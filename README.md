@@ -5,7 +5,7 @@ I am starting my Coding journey
 
 - I am learning Arrays.
 
-  More info [Arrays](https://github.com/Mishraji566/My100-DaysOfCoding/blob/main/Day1/Day1.md)
+  More info [Arrays](Day1/Day1.md)
 
 
 ## Day 2
