@@ -2,7 +2,7 @@
 
 - Searching Element in Array.
 
-  [Source Code]()
+  [Source Code](https://github.com/Mishraji566/My100-DaysOfCoding/blob/main/Day2/ArraySe.java)
 
 - Finding Maximum Element in Array.
 
