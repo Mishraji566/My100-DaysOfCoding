@@ -2,8 +2,8 @@
 
 - Searching Element in Array.
 
-  [Source Code](https://github.com/Mishraji566/My100-DaysOfCoding/blob/main/Day2/ArraySe.java)
+  [Source Code](ArraySe.java)
 
 - Finding Maximum Element in Array.
 
-  [Source Code](https://github.com/Mishraji566/My100-DaysOfCoding/blob/main/Day2/ArrayM.java) 
+  [Source Code](ArrayM.java) 
