@@ -7,6 +7,6 @@
 
 - One-Dimensional Arrays. 
 
-   * Creating One-Dimensional Array and displaying it. _ [Source Code](Day1/OneD.java)
-   * Finding sum Of Array.  [Source Code](Day1/SumArray.java)
+   * Creating One-Dimensional Array and displaying it. _ [Source Code](OneD.java)
+   * Finding sum Of Array.  [Source Code](SumArray.java)
 
