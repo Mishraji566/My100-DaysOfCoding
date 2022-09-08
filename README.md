@@ -13,3 +13,10 @@ I am starting my Coding journey
  - Arrays Continue.
 
    More info [Arrays](Day2/Day2.md)  
+
+
+## Day 3
+   
+  - Arrays Continue.
+
+    More info[Arrays](Day3/Day3.md)
