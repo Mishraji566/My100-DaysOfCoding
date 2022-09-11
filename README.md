@@ -20,3 +20,11 @@ I am starting my Coding journey
   - Arrays Continue.
 
     More info [Arrays](Day3/Day3.md)
+
+
+## Day 4
+
+  - Two-Demensional Arrays.
+
+    More Info [Arrays](Day4/Day4.md)
+
